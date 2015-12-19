@@ -40,7 +40,7 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
-.footer {
+.footer-credits {
   position: absolute;
   bottom: 0;
   width: 100%;
