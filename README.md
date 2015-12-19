@@ -1,1 +1,1 @@
-# Hawthorne
+This is a website I've started to expand my javascript skills and to excercise on my newly learnt knowledge from the webdesign course I am taking at coursera. It displays my sims family from the famous EA game, their stories, and their day-to-day life.
